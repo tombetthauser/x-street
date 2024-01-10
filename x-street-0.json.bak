@@ -7823,6 +7823,25 @@
                             "id": "5179a29f-d49e-4e7a-a26f-b3ff1ab29d08"
                         },
                         {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Where would you\nlike to go?"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "88ee8f10-b5c7-49eb-9a2e-034523a094f1"
+                        },
+                        {
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "L5",
+                                "trueText": "Mount Tam",
+                                "falseText": "Echo Summit"
+                            },
+                            "id": "b7ba7716-b28d-4cb8-bc20-79342fefebaf"
+                        },
+                        {
                             "command": "EVENT_IF_TRUE",
                             "args": {
                                 "variable": "4",
@@ -7834,12 +7853,30 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "You did some math!\nHop in!"
+                                                "It looks like you\ndid all your math."
                                             ],
                                             "avatarId": "",
                                             "__collapse": false
                                         },
                                         "id": "21bc1d0e-d287-40d7-ab12-54aa44cc5ef1"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Hop on in,\nlet's go!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "e19bbf19-1ea5-4b7b-a832-8e5738946675"
+                                    },
+                                    {
+                                        "command": "EVENT_ACTOR_EMOTE",
+                                        "args": {
+                                            "actorId": "player",
+                                            "emoteId": "da932101-c304-4f21-8dc9-0f5dc6178727"
+                                        },
+                                        "id": "a073fc43-de5d-4d9a-b024-89db2d9cda8a"
                                     },
                                     {
                                         "command": "EVENT_ACTOR_HIDE",
@@ -7848,6 +7885,15 @@
                                             "__collapse": true
                                         },
                                         "id": "7c27de93-faef-45d2-b387-e7f5f1bee1ad"
+                                    },
+                                    {
+                                        "command": "EVENT_WAIT",
+                                        "args": {
+                                            "time": 0.5,
+                                            "frames": 30,
+                                            "__collapse": false
+                                        },
+                                        "id": "19399408-ef2b-4c8e-9ae6-a8954a8aee1c"
                                     },
                                     {
                                         "command": "EVENT_ACTOR_MOVE_RELATIVE",
@@ -7870,16 +7916,49 @@
                                         "id": "d0affd9a-240c-4dbe-a4ce-63bb94638e8e"
                                     },
                                     {
+                                        "command": "EVENT_IF_TRUE",
+                                        "args": {
+                                            "variable": "L5",
+                                            "__collapseElse": true
+                                        },
+                                        "children": {
+                                            "true": [
+                                                {
+                                                    "command": "EVENT_SWITCH_SCENE",
+                                                    "args": {
+                                                        "sceneId": "8a52b387-2a88-4741-8d4e-ca56acea4672",
+                                                        "x": 15,
+                                                        "y": 25,
+                                                        "direction": "down",
+                                                        "fadeSpeed": "2",
+                                                        "__collapse": true
+                                                    },
+                                                    "id": "dc7aa5cc-36b1-4711-b5b5-8100d1f33bdf"
+                                                }
+                                            ],
+                                            "false": []
+                                        },
+                                        "id": "fdc85020-c4a4-4a24-9f25-1cea01e74e90"
+                                    },
+                                    {
                                         "command": "EVENT_SWITCH_SCENE",
                                         "args": {
-                                            "sceneId": "8a52b387-2a88-4741-8d4e-ca56acea4672",
-                                            "x": 0,
-                                            "y": 0,
-                                            "direction": "down",
+                                            "sceneId": "1b7f9ffd-2bbb-470b-9189-c2ac435d2a55",
+                                            "x": 9,
+                                            "y": 10,
+                                            "direction": "up",
                                             "fadeSpeed": "2",
                                             "__collapse": true
                                         },
-                                        "id": "dc7aa5cc-36b1-4711-b5b5-8100d1f33bdf"
+                                        "id": "b0892216-870f-47b5-867e-a60340214914"
+                                    },
+                                    {
+                                        "command": "EVENT_ACTOR_EMOTE",
+                                        "args": {
+                                            "actorId": "player",
+                                            "emoteId": "2f2806af-f8a6-44fd-9d03-09a44d0059f7"
+                                        },
+                                        "id": "f3020ffc-4082-4f8c-8ba0-bf4d3813fc22"
                                     }
                                 ],
                                 "false": [
@@ -7887,11 +7966,39 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "We can't leave yet\nTalk to animals!"
+                                                "Looks like you\nhaven't done all"
                                             ],
                                             "avatarId": ""
                                         },
                                         "id": "1a18e6f4-21e9-42cd-b265-e8ece279f12e"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "your math yet."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "aeacbf20-0afe-4644-a717-e357f403ca84"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Talk to animals\nand people!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "99bf4b2d-357b-4f11-bd15-ebade1b5d1b4"
+                                    },
+                                    {
+                                        "command": "EVENT_ACTOR_EMOTE",
+                                        "args": {
+                                            "actorId": "player",
+                                            "emoteId": "a12f6e9c-2bb1-4164-8d5b-4dbdda4bdceb"
+                                        },
+                                        "id": "3948e9ec-a0ae-40b6-afcb-905a16608a7c"
                                     }
                                 ]
                             },
@@ -12438,8 +12545,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 797,
-        "worldScrollY": 1392,
+        "worldScrollX": 532,
+        "worldScrollY": 703,
         "zoom": 200,
         "customColorsEnabled": false,
         "sgbEnabled": false,
