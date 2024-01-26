@@ -13900,14 +13900,815 @@
             "playerSpriteSheetId": "1bc6a5a8-5792-4a86-8837-d46a5cb687dc"
         },
         {
-            "name": "Scene 18",
+            "name": "Organ Room",
             "backgroundId": "fa5fbef2-5108-4be6-9201-acf08369d5f4",
             "width": 20,
             "height": 40,
             "type": "TOPDOWN",
             "paletteIds": [],
             "spritePaletteIds": [],
-            "collisions": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0
+            ],
             "autoFadeSpeed": 1,
             "id": "a3b26b89-39a7-4c97-be76-fc326f8d62b0",
             "symbol": "scene_18",
@@ -13915,7 +14716,7 @@
             "y": 623.4087091884804,
             "actors": [
                 {
-                    "name": "Frankie",
+                    "name": "The Heart",
                     "frame": 0,
                     "animate": false,
                     "spriteSheetId": "5fbc1134-6027-4be3-a86f-34b909a99054",
@@ -14061,9 +14862,623 @@
                     "hit3Script": [],
                     "updateScript": [],
                     "symbol": "actor_48"
+                },
+                {
+                    "name": "Organ Room Sign",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_49",
+                    "script": [
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Welcome to the\norgan room."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "d905fd87-1146-4378-bc54-26039df00308"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Organs are the\nthings inside you."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "2f872ba7-a208-4a54-bf52-c36067b437a3"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "They digest food\nand move blood\nand let you see."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "28c6b4a7-f0ee-44ed-b804-df8d2492b463"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "And everything\nelse that makes\nyou alive."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "b17325c2-2df2-4df1-8e73-ab7e45d99593"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "They are all made\nof tiny cells that\nare also alive."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "32f472c0-60bd-47ef-a812-684b50afb5f7"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Even your brain is\nan organ!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "f67ba5cc-444b-419a-b627-fef6b634b5cd"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Anyway answer all\ntheir questions."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "584eea01-1b6d-4181-95d5-b65b0392e74e"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Then you can \nmove on to the \nnext room!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "4af97f3d-533f-4a38-b9dd-29b2a03fdf59"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "879dacb7-ea50-447e-a384-5cad4844def5",
+                    "x": 7,
+                    "y": 35
+                },
+                {
+                    "name": "Eyeball #1",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "d3981332-2bf8-4f61-8460-4f81596c43a7",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 7,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_50",
+                    "script": [
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Hi there I'm\nan eyeball."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "3b0b11cd-8307-462c-b93c-8c122cb9a607"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "It's nice to see\nyou again."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "f78c3377-02e0-4c2f-a8fc-3a6645c218d0"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I'm sorry that's \nan eyeball joke."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "d47447e2-10c6-482d-bc8f-2151f4401959"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Anyway I'm a very\nimportant organ."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "a3cf9585-52e5-4898-ab46-0dbe0e2698fc"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I use special\ncells called rods\nand cones to see!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "71b1e0f8-3db0-4ec0-ab5c-1b78a73d1c9c"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "They are sensative\nto light."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "fd92bd50-36e1-4889-9ad6-5437477e6480"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "And they send\ninformation to\nyour brain."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "3c9f8f53-4922-4e89-945f-1d3bffd4e699"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I also have a\nlense that you see\nin front."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "ad7433b9-d82f-465c-8ccc-fa538c31bf67"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "It looks like a\nblack circle but \nit's really clear!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "23e407d8-9f53-4ea9-ad0c-9731a1be0855"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "The inside of me\njust looks black."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "fe9f826d-1edd-430d-9dc3-26beebd7e790"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Because my rods\nand cones absorb\nall the light!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "eadfb66f-61bf-4d4e-a35f-dbfcb0821739"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Also I look like a\ncircle but I'm \nreally a sphere."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "1a4a1b1f-7b0a-467a-a583-12fe1604fb9d"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I could say a lot\nmore, I'm a very\ncool organ."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "be2157ab-34fa-420a-be38-ff05e8e203a9"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "But I have a\nquestion for you."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "b0233a32-6554-4110-b10c-920e9012ba15"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Where do my rods\nand cones live?"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "c4763ef1-71d1-44ad-a569-9d49525fd988"
+                        },
+                        {
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "15",
+                                "trueText": "the retina",
+                                "falseText": "the cornea"
+                            },
+                            "id": "587cfe8a-fd0f-4b43-b1b4-4eab51a58101"
+                        },
+                        {
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "15",
+                                "__collapseElse": false
+                            },
+                            "children": {
+                                "true": [
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "That's right,\ngreat job!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "f79b52be-63a7-45cd-bd3a-38e08e9b7d26"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "The retina is\ninside me along\nmy back wall."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "a04602a5-4d99-4092-a1c4-903218a0696b"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "It's a thin layer \nof tissue that is"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "a3b4b664-84e4-498c-8aee-b0b33d41da7e"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "sensitive to \nlight."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "6709a87f-9a8c-4aeb-af34-bdf1adc267e3"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "And it's where \nall my rods and \ncones live!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "f5cc4a9b-422b-4709-ad9a-152ea46dbc69"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "They're cool\nlittle dudes."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "760f9dc2-0353-429e-bcc6-06639aae54b2"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Anyway great job!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "1597e54c-7461-49bb-8810-3fabccb1977b"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Come see me again \nsome time."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "21b63342-8233-4e51-a327-8e6810689424"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Sorry that was\nanother eyeball\njoke..."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "2a4b4cef-dc1f-4d88-87b1-c57f3f87f20a"
+                                    }
+                                ],
+                                "false": [
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "No that's\nnot right!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "6716634b-958d-436a-8221-a7b36e891efc"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "The cornea is a\nthick clear layer\nof the eye."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "bb379e4c-0c6b-4aba-812a-05197ac8585b"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "It protects the\nlens which is very\nimportant."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "aae368db-fc10-4423-a8a7-b5e720c2ec4e"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "The lens bends\nlight like\nbinoculars."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "52586193-ee29-4636-8b29-3732c2732587"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "And makes things\nlook smaller."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "2ac1429a-5457-48c4-ad44-83b7a52437cd"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "So they fit on the\nretina for the\nrods and cones."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "d5bf98e5-6b4b-4b89-bc07-b7471e304c4d"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "So when you look\nat the black\ncircle on an eye."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "51806642-6da2-4240-9eb9-83ae76304e2b"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "You're looking\nthrough the cornea\nand the lens."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "01234204-8f94-4634-90e7-69a1ba3c124d"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "And seeing the\nretina inside\nsomeone's eye!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "97c6a03c-beff-45b1-8e8d-cd3d925afbc0"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "The cornea is also\nvery tough."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "67ef3e8c-86cd-4cc6-92aa-b26acdadc2d7"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Because it has an\nimportant job."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "322404f8-c6c3-4e74-bc57-323e7af4e415"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "To protect\nthe eye!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "a9cdefde-0c4f-4709-86f7-b9b1af93f4b7"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Anyway try to\nanswer my question\nagain."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "42b9ab6f-1fb8-4f20-a3d4-554e1a1afa87"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "You'll get it\nright next time!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "31f0f1c4-065a-4139-bff3-4e8919a43c45"
+                                    }
+                                ]
+                            },
+                            "id": "1046406b-2ac8-47dd-a78b-8f4666597720"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "d3514d2c-cdd6-4501-b37d-9bc32f293d9a",
+                    "x": 7,
+                    "y": 11
                 }
             ],
-            "triggers": [],
+            "triggers": [
+                {
+                    "name": "",
+                    "id": "730cf687-994c-485f-82a4-cf81353488d3",
+                    "x": 4,
+                    "y": 38,
+                    "symbol": "trigger_30",
+                    "width": 2,
+                    "height": 1,
+                    "script": [
+                        {
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "2f852a06-4589-46e6-9788-42d19c0c7ac5",
+                                "x": 9,
+                                "y": 14,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            },
+                            "id": "862abc01-9159-4c68-875f-25f5e8c57637"
+                        }
+                    ],
+                    "leaveScript": []
+                },
+                {
+                    "name": "",
+                    "id": "40dddde8-d5b8-4bba-982c-de1f0e0252b0",
+                    "x": 14,
+                    "y": 38,
+                    "symbol": "trigger_31",
+                    "width": 2,
+                    "height": 1,
+                    "script": [
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "You can't go to\nthe next room yet!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "c8de1775-cf64-4206-8564-6eb3011d876f"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "It's not ready."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "243af17a-279f-472a-96c1-318d86d820c9"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Check back again\nsoon!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "19ea1d55-715d-4eee-92eb-50f09742eae5"
+                        },
+                        {
+                            "command": "EVENT_ACTOR_MOVE_TO",
+                            "args": {
+                                "actorId": "$self$",
+                                "x": {
+                                    "type": "number",
+                                    "value": 14
+                                },
+                                "y": {
+                                    "type": "number",
+                                    "value": 36
+                                },
+                                "moveType": "horizontal",
+                                "useCollisions": false
+                            },
+                            "id": "15f16c7f-c157-470a-93c3-96ba1af91942"
+                        }
+                    ],
+                    "leaveScript": []
+                }
+            ],
             "script": [
                 {
                     "command": "EVENT_MUSIC_PLAY",
@@ -14077,6 +15492,552 @@
             "playerHit2Script": [],
             "playerHit3Script": [],
             "autoFadeEventCollapse": true,
+            "playerSpriteSheetId": "1bc6a5a8-5792-4a86-8837-d46a5cb687dc"
+        },
+        {
+            "name": "Break Room",
+            "backgroundId": "42af7b35-b90a-4940-a0ac-553dfa2d4ff2",
+            "width": 20,
+            "height": 18,
+            "type": "TOPDOWN",
+            "paletteIds": [],
+            "spritePaletteIds": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                0,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                15,
+                15,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "autoFadeSpeed": 1,
+            "id": "2f852a06-4589-46e6-9788-42d19c0c7ac5",
+            "symbol": "scene_19",
+            "x": 1036.1350210970463,
+            "y": 978.3291139240505,
+            "actors": [
+                {
+                    "name": "Break Room Sign",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_47",
+                    "script": [
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Welcome. This is\njust a break room."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "f565e702-b168-4a23-b37c-a72f22b7bf25"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Help yourself to\na snack or juice."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "ceb72426-44b2-4454-a1c4-6ebcd6cc1732"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "No rush."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "0d7b8a53-780f-4893-82ef-f73c3980e528"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "f40a8de6-4b12-4f45-864d-86a3d9855e16",
+                    "x": 15,
+                    "y": 13
+                },
+                {
+                    "name": "Eyeball #2",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "d3981332-2bf8-4f61-8460-4f81596c43a7",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 31,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_51",
+                    "script": [
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Hello, I'm the\nother eyeball."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "b5edc911-29c0-4e3b-bd0d-804fbff7e86a"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I'm not very\ntalkative."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "9399975a-0879-46c8-acb3-70877c789cdc"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I'm just taking a\nbreak here."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "0c34fadf-f562-4318-94e4-c065c1cfb788"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I needed a snack."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "9c3cd707-c65d-4291-a9a5-61d1ca6962fd"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "You should talk\nto the other eye."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "a107e5bd-72c3-4fd7-bf68-12d7952aeefb"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "He talks a lot..."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "c4aedb5f-6c89-4e8c-85cf-bd7a218f4dbb"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "d3c9eaa3-cd73-4499-9a55-858ec27ebf3f",
+                    "x": 3,
+                    "y": 8
+                }
+            ],
+            "triggers": [
+                {
+                    "name": "",
+                    "id": "9e2853df-b5e2-46f5-9286-d9cf9a02db13",
+                    "x": 9,
+                    "y": 16,
+                    "symbol": "trigger_29",
+                    "width": 2,
+                    "height": 1,
+                    "script": [
+                        {
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "a3b26b89-39a7-4c97-be76-fc326f8d62b0",
+                                "x": 4,
+                                "y": 36,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            },
+                            "id": "42a88642-572d-47ba-acbd-d05bc7c72108"
+                        }
+                    ],
+                    "leaveScript": []
+                }
+            ],
+            "script": [],
+            "playerHit1Script": [],
+            "playerHit2Script": [],
+            "playerHit3Script": [],
             "playerSpriteSheetId": "1bc6a5a8-5792-4a86-8837-d46a5cb687dc"
         }
     ],
@@ -15493,6 +17454,165 @@
                             "frames": [
                                 {
                                     "id": "566900b6-dbac-4a31-b70a-1962dc5cb258",
+                                    "tiles": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "numTiles": 4,
+            "canvasWidth": 16,
+            "canvasHeight": 16,
+            "boundsX": 0,
+            "boundsY": 0,
+            "boundsWidth": 16,
+            "boundsHeight": 16,
+            "animSpeed": 15
+        },
+        {
+            "id": "d3981332-2bf8-4f61-8460-4f81596c43a7",
+            "name": "eyeball",
+            "symbol": "sprite_eyeball",
+            "numFrames": 2,
+            "type": "animated",
+            "filename": "eyeball.png",
+            "checksum": "a3852baaf2e725e500c2a11886275730a13061b9",
+            "width": 32,
+            "height": 16,
+            "states": [
+                {
+                    "id": "e433ab23-971f-4cab-860a-0075e5d16952",
+                    "name": "",
+                    "animationType": "fixed",
+                    "flipLeft": false,
+                    "animations": [
+                        {
+                            "id": "3e44b360-e927-4757-944d-c9b0987b91b3",
+                            "frames": [
+                                {
+                                    "id": "f70549fe-33f7-4eaf-8136-f624d3b4e4c5",
+                                    "tiles": [
+                                        {
+                                            "id": "144a36ec-33e3-45c3-8b0c-98bdc162441d",
+                                            "x": 0,
+                                            "y": 0,
+                                            "sliceX": 0,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        },
+                                        {
+                                            "id": "eb2c06c7-e2cc-495d-9c92-9185ca533bda",
+                                            "x": 8,
+                                            "y": 0,
+                                            "sliceX": 8,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "308ac268-1531-49dc-9383-85275806b26a",
+                                    "tiles": [
+                                        {
+                                            "id": "baf7aef1-dfe9-4f85-8d05-3b8a878a0278",
+                                            "x": 0,
+                                            "y": 0,
+                                            "sliceX": 16,
+                                            "sliceY": 0,
+                                            "palette": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "objPalette": "OBP0",
+                                            "paletteIndex": 0,
+                                            "priority": false
+                                        },
+                                        {
+                                            "id": "26de421c-5b8d-4141-98b4-0bef86aac353",
+                                            "x": 8,
+                                            "y": 0,
+                                            "sliceX": 24,
+                                            "sliceY": 0,
+                                            "palette": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "objPalette": "OBP0",
+                                            "paletteIndex": 0,
+                                            "priority": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b874f639-b4a4-47ca-b2d7-ff4ee9e70567",
+                            "frames": [
+                                {
+                                    "id": "2782495b-055b-462b-a5e2-5570e94c21cd",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b8ee885e-2f1e-4572-91ae-bffe60336d42",
+                            "frames": [
+                                {
+                                    "id": "e23f7af3-6a82-4ea6-8cec-a73718142533",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e4315d3f-89f2-4c94-b40d-7f170bd94fb0",
+                            "frames": [
+                                {
+                                    "id": "ac6a5415-80a3-45a7-8c0e-b7b791511ef2",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "686bc3bd-35fb-4b2f-8694-2a1fa7969383",
+                            "frames": [
+                                {
+                                    "id": "9ca05c31-f5aa-4094-8c33-e16de26e47db",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "844ce460-a26c-48f7-b51b-c1f892a68b61",
+                            "frames": [
+                                {
+                                    "id": "5eda2ecd-fbe3-48fa-b479-57905b6ba7b7",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99a492ab-bfdd-4b58-80fa-0ff4ca3a2a9d",
+                            "frames": [
+                                {
+                                    "id": "e2d8717a-69f8-40b0-8126-19ae23e13b10",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "83f234f3-9519-4f1d-975c-e63260101a9a",
+                            "frames": [
+                                {
+                                    "id": "5c6c7558-e9f3-480e-9249-00cda6c0d049",
                                     "tiles": []
                                 }
                             ]
@@ -20084,6 +22204,11 @@
             "id": "14",
             "name": "heart-question",
             "symbol": "var_heart_question"
+        },
+        {
+            "id": "15",
+            "name": "eyeball-question",
+            "symbol": "var_eyeball_question"
         }
     ],
     "engineFieldValues": [
@@ -20101,8 +22226,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 2109,
-        "worldScrollY": 1402,
+        "worldScrollX": 2016,
+        "worldScrollY": 1886,
         "zoom": 237,
         "customColorsEnabled": false,
         "sgbEnabled": false,
