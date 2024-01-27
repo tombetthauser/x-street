@@ -16842,7 +16842,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Hi Danny!\nI'm the heart."
+                                    "Hi there! I'm\nthe skull!"
                                 ]
                             }
                         },
@@ -16850,7 +16850,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "I pump blood all\nover your body."
+                                    "People think I'm\nscary but I'm not."
                                 ],
                                 "avatarId": ""
                             },
@@ -16860,7 +16860,17 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "And never stop\nbeating."
+                                    "I'm a really\nfriendly dude."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "8ff67538-33b7-4c80-b609-b8df638cbc59"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "And I'm a really\nimportant bone!"
                                 ],
                                 "avatarId": ""
                             },
@@ -16870,7 +16880,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Anyway, I have\na question..."
+                                    "Actually I'm two\nbones because of\nmy jaw bone."
                                 ],
                                 "avatarId": ""
                             },
@@ -16880,25 +16890,65 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "What bones\nprotect me?"
+                                    "And speaking of\nmy jaw bone..."
                                 ],
                                 "avatarId": ""
                             },
                             "id": "883dd7e3-b070-4888-bfe5-d03792bb7c98"
                         },
                         {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Half of my teeth\nlive in my jaw!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "916819ea-91e4-4afc-a75a-b5e9ccecfc1f"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "And that \nreminds me..."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "3fcccbf6-2085-49df-b5d9-faaea6205bed"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I have a question\nfor you!"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "92fd5b98-0ffe-4273-a1eb-86cdb320f259"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "How many teeth do\nadults have?"
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "9fd9feda-aa35-4f77-8d47-e7909e3fdceb"
+                        },
+                        {
                             "command": "EVENT_CHOICE",
                             "args": {
-                                "variable": "14",
-                                "trueText": "the rib cage",
-                                "falseText": "the skull"
+                                "variable": "16",
+                                "trueText": "32 teeth",
+                                "falseText": "24 teeth"
                             },
                             "id": "dc14196c-4678-43dd-92d0-6370d9f967f1"
                         },
                         {
                             "command": "EVENT_IF_FALSE",
                             "args": {
-                                "variable": "14",
+                                "variable": "16",
                                 "__collapseElse": false
                             },
                             "children": {
@@ -16907,11 +16957,21 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "No, I don't live\nin your skull..."
+                                                "No, but you \nwere close!"
                                             ],
                                             "avatarId": ""
                                         },
                                         "id": "b9aac372-8e5c-42d6-800d-79a186211b07"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Try again, you'll\nget it right\nnext time!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "2e477d8c-5e99-403a-a66f-2a60c3d5f402"
                                     }
                                 ],
                                 "false": [
@@ -16919,7 +16979,7 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "That's right! I\nlive in your ribs!"
+                                                "That's right,\nGreat job!"
                                             ],
                                             "avatarId": ""
                                         },
@@ -16929,7 +16989,7 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "Good job!"
+                                                "Adult skulls have\n32 teeth usually."
                                             ],
                                             "avatarId": ""
                                         },
@@ -16939,7 +16999,7 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "My other body\nfriends will be\nhere soon..."
+                                                "16 on top and 16\non the bottom."
                                             ],
                                             "avatarId": ""
                                         },
@@ -16949,11 +17009,111 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "Bye for now!"
+                                                "Teeth live in\nyour skull but\nthey aren't bones."
                                             ],
                                             "avatarId": ""
                                         },
                                         "id": "43e47be4-0e9a-4634-b986-c3e474640bc0"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "They're made of\ndifferent stuff."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "7588e93e-56bf-47c9-b6d1-129910a2db9c"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "They don't fix\nthemselves if they\nbreak like bones."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "adbd5157-b15d-4208-991f-5bf2bf2c45f6"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "And they're only \nfor chewing."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "2ed0c7c1-fa78-450f-8a07-7780bf3ce739"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Your other bones\ndon't chew!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "972aecce-e6fc-474e-893d-ffc93f96d203"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Also did you know\nthere's no bone in\nyour nose?"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "ba8bbfbf-e0a9-43ff-a31f-ac6d2f18ebe1"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "It's made of\ncartilage."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "dea1e88c-4f70-4157-9c87-b56c2b512a52"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Cartilage isn't as\nhard as bone."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "241ff7c9-1d3b-480b-a338-c6e32515d2ab"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "It's bendy so it\ndoesn't break as\neasily."
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "0f0b072f-112c-45d0-bc61-8e0fb6601f5f"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "Anyway good job!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "ad2bbacc-b5e5-4f55-8941-db2e53c6120d"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "And remember I'm\nnot scary!"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "e14b8808-97b5-43c8-92e5-cc36259c969c"
                                     }
                                 ]
                             },
@@ -17036,7 +17196,17 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "So they're not\naive in the same\nway the organs are"
+                                    "They're mostly\nmade of collagen\nand minerals."
+                                ],
+                                "avatarId": ""
+                            },
+                            "id": "d7fb041c-7958-46b4-9d55-b7b5ac165293"
+                        },
+                        {
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "So bones aren't\nalive in like your\norgans are."
                                 ],
                                 "avatarId": ""
                             },
@@ -17046,7 +17216,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "But they still do\nhave some cells."
+                                    "But your bones \nstill have some\ncells."
                                 ],
                                 "avatarId": ""
                             },
@@ -23773,6 +23943,11 @@
             "id": "acb4e170-49b2-4caf-be3e-4ccbb1326271__L0",
             "name": "dog-math",
             "symbol": "var_dog_math_5"
+        },
+        {
+            "id": "16",
+            "name": "skull-question",
+            "symbol": "var_skull_question"
         }
     ],
     "engineFieldValues": [
